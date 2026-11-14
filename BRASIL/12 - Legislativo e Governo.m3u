@@ -1,0 +1,4 @@
+#EXTM3U
+# Legislativo e Governo — 1 canais — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png" group-title="Legislativo e Governo",TV Senado
+http://170.83.16.50/TV_SENADO/index.m3u8

@@ -1,0 +1,26 @@
+#EXTM3U
+# PPV e Eventos — 6 canais — atualizado 14/11/2026 04:42
+#EXTINF:-1 tvg-id="A Fazenda 18 1" tvg-name="A Fazenda 18 1" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 1
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f585283a0990f913c7bb3de1fe408d41/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 2" tvg-name="A Fazenda 18 2" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 2
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/a2d66ed401b3faf208d60b774b347c05/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 3" tvg-name="A Fazenda 18 3" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 3
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/6a8ce129315fd326a1db628e4b630397/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 4" tvg-name="A Fazenda 18 4" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 4
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/9c88d598b2d8f71c42258ab7e285f435/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 5" tvg-name="A Fazenda 18 5" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 5
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/f318cd960de354f54400db86022f4ca0/error.txt
+#EXTINF:-1 tvg-id="UFC Fight Pass" tvg-name="UFC Fight Pass" tvg-logo="https://img.faz-o-eli.online/ufcfightpass.png" group-title="PPV e Eventos",UFC Fight Pass
+#EXTVLCOPT:http-referrer=https://ww0.embedtv.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://4a45b142a0bc6322e2cdd01438aa50b4.s25-cloudfront-net.lat/stream/24f1a5acecdc3e149ed8ea76fa2185bb/error.txt

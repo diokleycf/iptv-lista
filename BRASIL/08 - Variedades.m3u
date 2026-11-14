@@ -1,0 +1,62 @@
+#EXTM3U
+# Variedades — 28 canais — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Variedades",Adult Swim
+http://45.185.11.126:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Variedades",BIS
+http://45.185.11.126:8000/play/a07w/index.m3u8
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Variedades",Canal do Boi
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png" group-title="Variedades",Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-name="Chroma TV" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Variedades",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="Com Brasil" tvg-name="Com Brasil" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Variedades",Com Brasil
+#EXTVLCOPT:http-referrer=https://meufut.top/com-brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" tvg-name="Conecta Mais TV" tvg-logo="https://i.imgur.com/qHwTWlz.png" group-title="Variedades",Conecta Mais TV
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+#EXTINF:-1 tvg-id="e.br" tvg-name="E!" tvg-logo="http://3.bp.blogspot.com/-p11362iIZW8/XmP736_KsGI/AAAAAAAACPk/ViHbgXo2BDkd_p85Qs4rWKx-nUei_z5tQCK4BGAYYCw/s400/E.png" group-title="Variedades",E!
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8782.ts
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="Variedades",FOOD NETWOORK
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13522.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Variedades",Food Network
+http://45.185.11.126:8000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Variedades",GNT
+http://45.185.11.126:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="IMPD" tvg-name="IMPD" tvg-logo="https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png" group-title="Variedades",IMPD
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="http://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="Variedades",LIFETIME
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8943.ts
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-name="Lifetime Latin America Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Variedades",Lifetime Latin America Brazil
+http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="modo.viagem.br" tvg-name="MODO VIAGEM" tvg-logo="http://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="Variedades",MODO VIAGEM
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8883.ts
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" tvg-name="Petlovers TV" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png" group-title="Variedades",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Variedades",Rede Gospel
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedeNGT.br@SD" tvg-name="Rede NGT" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Variedades",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Variedades",RIT
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca" tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png" group-title="Variedades",Trace Brazuca
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCuruca.br@SD" tvg-name="TV Curuca" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Variedades",TV Curuca
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Variedades",TV Evangelizar
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br@SD" tvg-name="TV GRANDE NATAL HDTV BRASIL" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Variedades",TV GRANDE NATAL HDTV BRASIL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Variedades",TV Novo Tempo
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Variedades",TV Pai Eterno
+#EXTVLCOPT:http-referrer=https://meufut.top/tv-pai-eterno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-name="TV Vicosa" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Variedades",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlusPet.br@SD" tvg-name="TV+Pet" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" group-title="Variedades",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-id="UMATV.br@HD" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="Variedades",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8

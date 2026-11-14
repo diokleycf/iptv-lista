@@ -1,0 +1,6 @@
+#EXTM3U
+# Notícias — Espanha — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-name="24 Horas" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Notícias · Espanha",24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="Euronews Spanish" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Notícias · Espanha",Euronews Spanish
+https://iptv.bitred.cl/euronews/index.m3u8

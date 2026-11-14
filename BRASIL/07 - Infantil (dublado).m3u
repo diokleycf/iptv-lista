@@ -1,0 +1,48 @@
+#EXTM3U
+# Infantil (dublado) — 22 canais — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="Anime Channel TV" tvg-name="Anime Channel TV" tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil (dublado)",Anime Channel TV
+#EXTVLCOPT:http-referrer=https://meufut.top/anime-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoxKidsTV.br@SD" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Infantil (dublado)",Box Kids TV
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWOORK FHD" tvg-logo="http://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="Infantil (dublado)",CARTOON NETWOORK FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/125439.ts
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-name="Cartoon Network Latin America Brazil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil (dublado)",Cartoon Network Latin America Brazil (720p)
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil (dublado)",Cartoonito
+http://45.185.11.126:8000/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantil (dublado)",Discovery Kids
+http://45.185.11.126:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-id="DumDum" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Infantil (dublado)",DumDum
+http://45.185.11.126:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="Geekdot" tvg-name="Geekdot" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="Infantil (dublado)",Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantil (dublado)",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="Jetsons TV" tvg-name="Jetsons TV" tvg-logo="https://i.imgur.com/PZcTfqV.png" group-title="Infantil (dublado)",Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kuriakos Kids" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil (dublado)",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading TV" tvg-name="Loading TV" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Infantil (dublado)",Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBX TV Kids" tvg-name="NBX TV Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil (dublado)",NBX TV Kids
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png" group-title="Infantil (dublado)",Nickelodeon
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="NickToons Brasil" tvg-name="NickToons Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Infantil (dublado)",NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Otaku Sign TV" tvg-name="Otaku Sign TV" tvg-logo="https://i.imgur.com/eHw2M6p.png" group-title="Infantil (dublado)",Otaku Sign TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Crianças" tvg-name="Rede Crianças" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil (dublado)",Rede Crianças
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-name="Retro Cartoon" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Infantil (dublado)",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 tvg-id="Retrô Cartoon" tvg-name="Retrô Cartoon" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Infantil (dublado)",Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBC Kids" tvg-name="SBC Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil (dublado)",SBC Kids
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png" group-title="Infantil (dublado)",Tooncast
+http://170.83.16.50:80/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://3.bp.blogspot.com/-j5uz1zttHEo/XmUi8BK3sYI/AAAAAAAACXE/-90cQil00OUb0mhWc1mp3PjBzcunSnsdwCK4BGAYYCw/s400/zoomoo.png" group-title="Infantil (dublado)",ZOOMOO
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9230.ts

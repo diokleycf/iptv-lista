@@ -1,0 +1,4 @@
+#EXTM3U
+# Notícias — Rússia — atualizado 13/11/2026 13:50
+#EXTINF:-1 tvg-id="RT.ru@SD" tvg-name="RT" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" group-title="Notícias · Rússia",RT
+http://212.5.144.156:8080/rt/index.m3u8

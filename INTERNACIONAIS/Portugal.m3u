@@ -1,0 +1,4 @@
+#EXTM3U
+# Notícias — Portugal — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-name="RTP Noticias (720p)" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Notícias · Portugal",RTP Noticias (720p)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8

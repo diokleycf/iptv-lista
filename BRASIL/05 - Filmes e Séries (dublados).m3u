@@ -1,0 +1,68 @@
+#EXTM3U
+# Filmes e Séries (dublados) — 33 canais — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://img.faz-o-eli.online/amc.png" group-title="Filmes e Séries (dublados)",AMC
+http://45.185.11.126:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-name="AMC Latin America Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Filmes e Séries (dublados)",AMC Latin America Brazil
+http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries (dublados)",AXN
+http://170.83.49.66:8083/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-name="AXN (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Filmes e Séries (dublados)",AXN (Brazil)
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://vignette.wikia.nocookie.net/tvpediabrasil/images/c/c0/Canalbrasil.jpg/revision/latest?cb=20171106204353&path-prefix=pt-br" group-title="Filmes e Séries (dublados)",CANAL BRASIL FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/107979.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries (dublados)",Cinemax
+http://45.185.11.126:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="Classique Faroeste" tvg-name="Classique Faroeste" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries (dublados)",Classique Faroeste
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br@SD" tvg-name="Classique TV" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes e Séries (dublados)",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries (dublados)",HBO Pop
+http://45.185.11.126:8000/play/a08s/index.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="Filmes e Séries (dublados)",HBO Xtreme
+http://45.185.11.126:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="" group-title="Filmes e Séries (dublados)",HBO+
+http://45.185.11.126:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries (dublados)",HBO2
+http://45.185.11.126:8000/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries (dublados)",Megapix
+http://45.185.11.126:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="MovieSphere Brazil" tvg-name="MovieSphere Brazil" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries (dublados)",MovieSphere Brazil
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes e Séries (dublados)",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Filmes e Séries (dublados)",Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-id="Runtime Ação" tvg-name="Runtime Ação" tvg-logo="https://i.imgur.com/3rM8nL2.png" group-title="Filmes e Séries (dublados)",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries (dublados)",Sony Channel
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD" tvg-logo="http://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="Filmes e Séries (dublados)",SONY FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/108180.ts
+#EXTINF:-1 tvg-id="Sony One Classics" tvg-name="Sony One Classics" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony-movies.png" group-title="Filmes e Séries (dublados)",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-name="Studio Universal Latin America Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Filmes e Séries (dublados)",Studio Universal Latin America Brazil
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-name="TCM 10" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Filmes e Séries (dublados)",TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries (dublados)",Telecine Action
+http://45.185.11.126:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries (dublados)",Telecine Cult
+http://45.185.11.126:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries (dublados)",Telecine Fun
+http://45.185.11.126:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries (dublados)",Telecine Pipoca
+http://45.185.11.126:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-name="TNT Latin America Brazil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Filmes e Séries (dublados)",TNT Latin America Brazil (720p)
+http://15.204.246.24:8080/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="tnt.novelas.br" tvg-name="TNT NOVELAS FHD .265" tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="Filmes e Séries (dublados)",TNT NOVELAS FHD .265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/275102.ts
+#EXTINF:-1 tvg-id="TNT SØries" tvg-name="TNT SØries" tvg-logo="" group-title="Filmes e Séries (dublados)",TNT SØries
+http://45.185.11.126:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-id="TV Clássicos" tvg-name="TV Clássicos" tvg-logo="https://i.imgur.com/c6uFj7A.png" group-title="Filmes e Séries (dublados)",TV Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://1.bp.blogspot.com/-cl-zcjepRcU/Xk70nmSkZsI/AAAAAAAACH4/ROQDJ7TdojcAxCW6SVf9B1AoxlaV8KYfgCLcBGAsYHQ/s1600/universaltv.png" group-title="Filmes e Séries (dublados)",UNIVERSAL CHANNEL FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/108185.ts
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries (dublados)",Universal TV
+http://45.185.11.126:8000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes e Séries (dublados)",Warner Channel
+http://45.185.11.126:8000/play/a0am/index.m3u8

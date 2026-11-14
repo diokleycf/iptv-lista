@@ -1,0 +1,18 @@
+#EXTM3U
+# Documentários (dublados) — 8 canais — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD*" tvg-logo="http://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="Documentários (dublados)",DISCOVERY CHANNEL FHD*
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131176.ts
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America Brazil (720p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Documentários (dublados)",Discovery Kids Latin America Brazil (720p)
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentários (dublados)",Discovery Theater
+http://45.185.11.126:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY TLC FHD" tvg-name="DISCOVERY TLC FHD" tvg-logo="http://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="Documentários (dublados)",DISCOVERY TLC FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/91400.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários (dublados)",Discovery Turbo
+http://45.185.11.126:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.us@Brazil" tvg-name="Discovery World Brazil (720p)" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentários (dublados)",Discovery World Brazil (720p)
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários (dublados)",History
+http://45.185.11.126:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="http://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png" group-title="Documentários (dublados)",ID - INVESTIGAÇÃO DISCOVERY FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/91403.ts

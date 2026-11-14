@@ -1,0 +1,4 @@
+#EXTM3U
+# Notícias — Coreia do Sul — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Notícias · Coreia do Sul",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8

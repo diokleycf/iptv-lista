@@ -1,0 +1,4 @@
+#EXTM3U
+# Notícias — Global — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="Euronews.pl@FAST" tvg-name="Euronews" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="Notícias · Global",Euronews
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8

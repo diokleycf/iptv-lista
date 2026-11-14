@@ -1,0 +1,4 @@
+#EXTM3U
+# Agro e Rural — 1 canais — atualizado 14/11/2026 12:53
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" group-title="Agro e Rural",AgroCanal
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
