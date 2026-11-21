@@ -1,0 +1,56 @@
+#EXTM3U
+# Esportes — 27 canais — atualizado 21/11/2026 14:06
+#EXTINF:-1 tvg-id="Amazon Prime Video 01" tvg-name="Amazon Prime Video 01" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Amazon Prime Video 01
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/3d4feea9ea186e39c4905ea0f29c9c27/error.txt
+#EXTINF:-1 tvg-id="Amazon Prime Video 02" tvg-name="Amazon Prime Video 02" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Amazon Prime Video 02
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/fa5d8f1630bf6c9237e075e989ec9151/error.txt
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="BAND SPORTS HD" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",BAND SPORTS HD
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="Canal OFF" tvg-name="Canal OFF" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Esportes",Canal OFF
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/525d1c647ab9f31e920f1cbd3e1f5868/error.txt
+#EXTINF:-1 tvg-id="CAZE TV" tvg-name="CAZE TV" tvg-logo="http://imgu.top/logos/cazetv.png" group-title="Esportes",CAZE TV
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/245797.ts
+#EXTINF:-1 tvg-id="CazeTV 1" tvg-name="CazeTV 1" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 1
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CazeTV 2" tvg-name="CazeTV 2" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 2
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/968eebe7160052bf0cdc562679219eed/error.txt
+#EXTINF:-1 tvg-id="CAZÉ TV" tvg-name="CAZÉ TV" tvg-logo="http://imgu.top/logos/cazetv.png" group-title="Esportes",CAZÉ TV
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/227520.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://img.faz-o-eli.online/combate.png" group-title="Esportes",Combate
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/fd362a9e3a9393cd4a1642741d1eaa04/error.txt
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes",ESPN 3
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",ESPN 5
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/2a0866b3c22caef51cf1ad6e2bd13771/error.txt
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes",ESPN 6
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/f3552a2088b6f215dc40cafc36ff9da3/error.txt
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png" group-title="Esportes",Fish TV
+http://170.83.16.50/FISH_TV/index.m3u8
+#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Paramount+ (Jogo 1)" tvg-name="Paramount+ (Jogo 1)" tvg-logo="https://img.faz-o-eli.online/paramountplus.png" group-title="Esportes",Paramount+ (Jogo 1)
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/65e6b078b336259accc20ede5a5214c8/error.txt
+#EXTINF:-1 tvg-id="Paramount+ (Jogo 2)" tvg-name="Paramount+ (Jogo 2)" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes",Paramount+ (Jogo 2)
+https://tody.s25-cloudfront-net.lat/tody/paramountplus2.m3u8
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 FHD MOSAICO" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="Esportes",PREMIERE 8 FHD MOSAICO
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30063.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",SporTV
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/4dcb5953439b4d7f2a2c11a182f85790/error.txt
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SPORTV 4" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="Esportes",SPORTV 4
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/570369.ts
+#EXTINF:-1 tvg-id="SportyNet" tvg-name="SportyNet" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/4bcadbcf4d5b48043f21cce10b496c8b/error.txt
+#EXTINF:-1 tvg-id="SportyNet+ 1" tvg-name="SportyNet+ 1" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 1
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/9312d2f4b59a19851d08354c0a6fc843/error.txt
+#EXTINF:-1 tvg-id="SportyNet+ 2" tvg-name="SportyNet+ 2" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 2
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/06497d91d4449b3a46a346790c2339dd/error.txt
+#EXTINF:-1 tvg-id="SportyNet+ 3" tvg-name="SportyNet+ 3" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 3
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/860466a8858e64eebf7cf0c9671fd191/error.txt
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/woohoo.png" group-title="Esportes",Woohoo
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="X Sports" tvg-name="X Sports" tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes",X Sports
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/e2602b09b7e4303246274e490665a4d9/error.txt

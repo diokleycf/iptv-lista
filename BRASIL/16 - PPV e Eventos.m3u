@@ -1,0 +1,14 @@
+#EXTM3U
+# PPV e Eventos — 6 canais — atualizado 21/11/2026 14:06
+#EXTINF:-1 tvg-id="A Fazenda 18 1" tvg-name="A Fazenda 18 1" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 1
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/930d0391910df42a6641bb7f155eb652/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 2" tvg-name="A Fazenda 18 2" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 2
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/5354f804d197644061a01b6d8dee26a1/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 3" tvg-name="A Fazenda 18 3" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 3
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/0b5e60d72dbef5a4a272fba5e255d061/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 4" tvg-name="A Fazenda 18 4" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 4
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/ac2a10dc9bef09851ddae3fc4d503db2/error.txt
+#EXTINF:-1 tvg-id="A Fazenda 18 5" tvg-name="A Fazenda 18 5" tvg-logo="https://img.faz-o-eli.online/afazenda2.png" group-title="PPV e Eventos",A Fazenda 18 5
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/69458f636c195efe863c3ab003952922/error.txt
+#EXTINF:-1 tvg-id="UFC Fight Pass" tvg-name="UFC Fight Pass" tvg-logo="https://img.faz-o-eli.online/ufcfightpass.png" group-title="PPV e Eventos",UFC Fight Pass
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/8ed30fb65e011d19401878f7e4b21938/error.txt

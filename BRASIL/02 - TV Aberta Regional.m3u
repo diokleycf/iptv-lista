@@ -1,0 +1,82 @@
+#EXTM3U
+# TV Aberta Regional — 38 canais — atualizado 21/11/2026 14:06
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND BAHIA" tvg-logo="http://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="TV Aberta Regional",BAND BAHIA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/1166298.ts
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS" tvg-logo="http://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="TV Aberta Regional",BAND CAMPINAS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/20522.ts
+#EXTINF:-1 tvg-id="Band RJ" tvg-name="Band RJ" tvg-logo="https://img.faz-o-eli.online/band.png" group-title="TV Aberta Regional",Band RJ
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/eb5e49e4c4814be9ffd2d886d6e81f8c/error.txt
+#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://img.faz-o-eli.online/band.png" group-title="TV Aberta Regional",Band SP
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/0e2bd8d6ad6c03494067f893f53f5197/error.txt
+#EXTINF:-1 tvg-id="Globo AM" tvg-name="Globo AM" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo AM
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/9d461f9dc941c9786fe4f575458f6924/error.txt
+#EXTINF:-1 tvg-id="Globo CE" tvg-name="Globo CE" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo CE
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/d3ca88365af9d3c05a10e4aa3bb251f4/error.txt
+#EXTINF:-1 tvg-id="Globo DF" tvg-name="Globo DF" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo DF
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/5008532dbf0a991d55738a6eee5f15c0/error.txt
+#EXTINF:-1 tvg-id="Globo ES" tvg-name="Globo ES" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo ES
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/56fb475c302130c40c7a37446c5e4aaf/error.txt
+#EXTINF:-1 tvg-id="Globo GO" tvg-name="Globo GO" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo GO
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/62da6ed531eeef92a96d05c7a1f7a2f0/error.txt
+#EXTINF:-1 tvg-id="Globo MG" tvg-name="Globo MG" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo MG
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/8e51aa422bf67c8fcb5676679828f6cf/error.txt
+#EXTINF:-1 tvg-id="Globo PB" tvg-name="Globo PB" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo PB
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/730edc9feb3e353bf0f355f40df9e930/error.txt
+#EXTINF:-1 tvg-id="Globo PE" tvg-name="Globo PE" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo PE
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/ea0d908a864c061e06016e89c73bc0df/error.txt
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="TV Aberta Regional",Globo RJ
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/fa89fbb07d899d942dde1ed08b5fed99/error.txt
+#EXTINF:-1 tvg-id="Globo RS" tvg-name="Globo RS" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo RS
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/fd3a495445ef3ee8bf485ab7384dadd2/error.txt
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="TV Aberta Regional",Globo SP
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/59ac60fb73f6df57b491b47a53319d4b/error.txt
+#EXTINF:-1 tvg-id="record.tv.bahia.br" tvg-name="RECORD BAHIA" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD BAHIA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291650.ts
+#EXTINF:-1 tvg-id="record.tv.belem.br" tvg-name="RECORD BELEM" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD BELEM
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/241952.ts
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD BRASILIA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/12988.ts
+#EXTINF:-1 tvg-id="Record DF" tvg-name="Record DF" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta Regional",Record DF
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8
+#EXTINF:-1 tvg-id="Record ES" tvg-name="Record ES" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta Regional",Record ES
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordes/index.m3u8
+#EXTINF:-1 tvg-id="Record GO" tvg-name="Record GO" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta Regional",Record GO
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/90f15eefbca823c8f1c00bf6c8195dde/error.txt
+#EXTINF:-1 tvg-id="record.tv.goias.br" tvg-name="RECORD GOIAS" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD GOIAS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/106096.ts
+#EXTINF:-1 tvg-id="Record MG" tvg-name="Record MG" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta Regional",Record MG
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/0e6e09647f38688bed509587c90f47cd/error.txt
+#EXTINF:-1 tvg-id="record.tv.minas.br" tvg-name="RECORD MINAS" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD MINAS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9055.ts
+#EXTINF:-1 tvg-id="record.news.sc.br" tvg-name="RECORD NSC SANTA CATARINA" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD NSC SANTA CATARINA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291659.ts
+#EXTINF:-1 tvg-id="Record RJ" tvg-name="Record RJ" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta Regional",Record RJ
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/5b3f90bd2a9d2f8253587736ee4b2e35/error.txt
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD RS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/160052.ts
+#EXTINF:-1 tvg-id="record.news.sc.br" tvg-name="RECORD SANTA CATARINA" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD SANTA CATARINA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/241179.ts
+#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD SERGIPE - ATALAIA" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD SERGIPE - ATALAIA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291656.ts
+#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta Regional",Record SP
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/51d583013325675cdd78ab1b4bbf4ab7/error.txt
+#EXTINF:-1 tvg-id="tv.tropical.hd.record.br" tvg-name="RECORD TROPICAL" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD TROPICAL
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/225833.ts
+#EXTINF:-1 tvg-id="record.tv.cascavel.br" tvg-name="RECORD TV PARANA" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="TV Aberta Regional",RECORD TV PARANA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/93892.ts
+#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-name="SBT Nova Mutum (818p)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" group-title="TV Aberta Regional",SBT Nova Mutum (818p)
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT RJ" tvg-name="SBT RJ" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta Regional",SBT RJ
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/93111240b08ba9eb64a4b93b6400c941/error.txt
+#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="TV Aberta Regional",SBT SP
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/0c4d5ff78d8afe69896c53996b337481/error.txt
+#EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="TV Aberta Regional",TV Bahia
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="TVClube.br@SD" tvg-name="TV Clube" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="TV Aberta Regional",TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="TVE Bahia" tvg-name="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="TV Aberta Regional",TVE Bahia
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8

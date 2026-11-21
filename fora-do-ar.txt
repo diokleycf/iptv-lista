@@ -1,0 +1,280 @@
+Falharam em 21/11/2026 14:06:
+
+# CONFIRMADOS (falharam 2 rodadas seguidas -> REMOVIDOS)
+24H Naruto Clássico	https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8	saimo
+24H Os Smurfs	https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8	saimo
+A&E	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/1544350232243a5f463c4283046be75a/error.txt	saimo
+A&E Latin America Brazil	http://79.127.238.228:14551	iptv-org
+ABC News Live 1	https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8	int-Estados Unidos
+Adrenalina Pura TV Brazil	https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8	iptv-org
+AgroBrasil TV	http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8	freetv
+AgroBrasil TV (720p)	http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8	iptv-org
+AgroMais	http://45.177.114.115/agromais/index.m3u8	iptv-org
+Alpha Channel	https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8	iptv-org
+AMC Séries	https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/amcseries/index.m3u8	saimo
+Apple TV 01	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/appletv01/index.m3u8	saimo
+Apple TV 02	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/appletv02/index.m3u8	saimo
+Apple TV 03	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/appletv03/index.m3u8	saimo
+Apple TV 04	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/appletv04/index.m3u8	saimo
+Apple TV 05	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/appletv05/index.m3u8	saimo
+Apple TV 06	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/appletv06/index.m3u8	saimo
+Aratu On	https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8	iptv-org
+Arte 1	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/0155d3624c9896de83572ad1c5e542fa/error.txt	saimo
+Auge TV	https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8	iptv-org
+Avatar: A lenda de Aang	https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8	iptv-org
+BabyFirst Brazil	https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8	iptv-org
+BAND RS	http://governosptx.org:80/3llohwk4g9/kwf099q30o/72575.ts	ramys
+BBC News UK	http://45.153.96.44:8001	int-Reino Unido
+Bem Melhor	https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8	iptv-org
+BET Pluto TV BR	https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8	iptv-org
+Blits TV	https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8	saimo
+BM&C News	https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8	iptv-org
+Bob Esponja Calca Quadrada	https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8	iptv-org
+BR8 TV	https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8	iptv-org
+Cabo Frio TV	https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8	iptv-org
+Canal do Inter (720p)	https://video01.soultv.com.br/internacional/internacional/playlist.m3u8	iptv-org
+Canal GOAT (Jogo 1)	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/canalgoat/index.m3u8	saimo
+CANAL GOAT 01	http://governosptx.org:80/3llohwk4g9/kwf099q30o/275100.ts	ramys
+CANAL GOAT 02	http://governosptx.org:80/3llohwk4g9/kwf099q30o/289540.ts	ramys
+CANAL GOAT 03	http://governosptx.org:80/3llohwk4g9/kwf099q30o/289541.ts	ramys
+Canal Libras	https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8	iptv-org
+Canal Ricos	https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8	iptv-org
+Canal START	https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8	iptv-org
+CARTOON NETWOORK FHD	http://governosptx.org:80/3llohwk4g9/kwf099q30o/125439.ts	ramys
+CazeTV 3	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cazetv3/index.m3u8	saimo
+CazeTV 4	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cazetv4/index.m3u8	saimo
+CBS News 24/7	https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8	int-Estados Unidos
+Cine Terror BR	https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8	iptv-org
+Cinturao Verde	https://play.redecinturaoverde.com.br/playlist.m3u8	iptv-com
+CNN International	https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8	int-Estados Unidos
+Comedy Central Pluto TV BR	https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8	iptv-org
+Cultura Para	http://170.84.165.204/CANAL_21_HD/index.m3u8	iptv-org
+DAZN	http://governosptx.org:80/3llohwk4g9/kwf099q30o/54928.ts	ramys
+DAZN (Jogo 1)	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/dazn/index.m3u8	saimo
+DAZN 2	http://governosptx.org:80/3llohwk4g9/kwf099q30o/21645.ts	ramys
+Demais TV	https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8	iptv-org
+Detetives Medicos	https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8	iptv-org
+DISCOVERY TLC FHD	http://governosptx.org:80/3llohwk4g9/kwf099q30o/91400.ts	ramys
+Disney+ 01	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus/index.m3u8	saimo
+Disney+ 02	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus02/index.m3u8	saimo
+Disney+ 03	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus03/index.m3u8	saimo
+Disney+ 04	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus04/index.m3u8	saimo
+Disney+ 05	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus05/index.m3u8	saimo
+Disney+ 06	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus06/index.m3u8	saimo
+Disney+ 07	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus07/index.m3u8	saimo
+Disney+ 08	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/disneyplus08/index.m3u8	saimo
+E!	https://video49.mais.uol.com.br/live/4503.mpd	saimo
+Elemental Channel	https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8	iptv-org
+ESPN 2	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/acbac0d95771089fc2daf95e5671ff42/error.txt	saimo
+ESPN 3 (Brazil)	http://190.83.2.182:8090/ESPN3/index.m3u8	iptv-org
+Euronews French	https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8	int-França
+Euronews German	https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8	int-Alemanha
+Euronews Portuguese	https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8	int-Portugal
+Euronews Spanish	https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8	int-Espanha
+Eurosport	http://89.44.231.117:7000/eurosport	ramys
+Eurosport 2	http://89.44.231.117:7000/eurosport2	ramys
+EUTV	https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8	iptv-org
+FailArmy Brazil	https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8	iptv-org
+FIFA+ Portuguese	https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8	iptv-org
+FIFA+ Português	https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8	saimo
+Filmes Suspense	https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8	iptv-org
+Fora Tedio TV	https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8	iptv-org
+France 24	https://freem3u.xyz/api/live/play.m3u8?vid=10007	int-França
+Ghost TV (712p)	https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8	iptv-org
+GloboNews	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd	saimo
+Globoplay Novelas	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd	saimo
+Gloob Web	https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8	iptv-org
+Gloobinho	https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/gloobinho/index.m3u8	saimo
+GNT	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd	saimo
+HBO+	http://45.185.11.126:8000/play/a08p/index.m3u8	ramys
+History (Brazil)	http://45.177.114.114/HISTORY/index.m3u8	iptv-org
+History 2 Latin America Brazil	http://45.177.114.114/HISTORY_2/index.m3u8	iptv-org
+Jornada nas Estrelas: Deep Space Nine	https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8	iptv-org
+JP News	http://45.185.11.126:8000/play/a0a1/index.m3u8	ramys
+KpopTV Play	https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8	iptv-org
+Lider TV (Brazil)	https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8	iptv-org
+Max	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/max/index.m3u8	saimo
+MAX 04	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/max04/index.m3u8	saimo
+MAX 05	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/max05/index.m3u8	saimo
+Max 06	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/max06/index.m3u8	saimo
+MBC Brasil TV	https://play.mbcbrasil.tv.br/playlist.m3u8	iptv-com
+Megapix	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd	saimo
+MKK Web TV (720p)	https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8	iptv-org
+MTV	https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8	saimo
+MTV Are you the One?	https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8	iptv-org
+MTV Biggest Pop BR	https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8	iptv-org
+MTV Catfish BR	https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8	iptv-org
+MTV Classic BR	https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8	iptv-org
+MTV Com o Ex	https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8	iptv-org
+MTV Dating	https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8	iptv-org
+MTV Drag	https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8	iptv-org
+MTV Jovens e Maes	https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8	iptv-org
+MTV Pluto TV BR	https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8	iptv-org
+MTV Reality	https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8	iptv-org
+MTV Rocks	https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8	iptv-org
+MTV Shore	https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8	iptv-org
+Multishow	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd	saimo
+N SPORTS	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/nsports/index.m3u8	saimo
+Nick Jr. Club (United States) BR	https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8	iptv-org
+Nickelodeon Classico	https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8	iptv-org
+Nickelodeon Teen	https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8	iptv-org
+Nickelodeon Toons	https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8	iptv-org
+NickOnline	https://x1colegal.com/hls/stream.m3u8	saimo
+NOSSO FUTEBOL 01	http://governosptx.org:80/3llohwk4g9/kwf099q30o/227505.ts	ramys
+NOVELAS GLOBOPLAY	http://governosptx.org:80/3llohwk4g9/kwf099q30o/9215.ts	ramys
+O Reino Infantil	https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8	iptv-org
+Oggy e as Baratas Tontas	https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8	iptv-org
+Paramount + 4	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/paramountplus04/index.m3u8	saimo
+Paramount+ (Jogo 3)	https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/paramountplus03/index.m3u8	saimo
+Pluto TV Aliens	https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8	iptv-org
+Pluto TV Animais	https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8	iptv-org
+Pluto TV Anime Acao	https://jmp2.uk/plu-604b79c558393100078faeef.m3u8	iptv-org
+Pluto TV Anime BR	https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8	iptv-org
+Pluto TV Bang Bang	https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8	iptv-org
+Pluto TV Canal UOL	https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8	iptv-org
+Pluto TV Cine Classicos	https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8	iptv-org
+Pluto TV Cine Comedia (United States) BR	https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8	iptv-org
+Pluto TV Cine Comedia Romantica	https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8	iptv-org
+Pluto TV Cine Crime	https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8	iptv-org
+Pluto TV Cine Drama	https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8	iptv-org
+Pluto TV Cine Familia	https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8	iptv-org
+Pluto TV Cine Inspiracao	https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8	iptv-org
+Pluto TV Cine Romance	https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8	iptv-org
+Pluto TV Cine Sucessos	https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8	iptv-org
+Pluto TV Cozinha	https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8	iptv-org
+Pluto TV Desenhos Classicos	https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8	iptv-org
+Pluto TV Esportes	https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8	iptv-org
+Pluto TV Ficcao Cientifica	https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8	iptv-org
+Pluto TV Filmes Acao	https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8	iptv-org
+Pluto TV Filmes Aventura	https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8	iptv-org
+Pluto TV Filmes de Luta	https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8	iptv-org
+Pluto TV Filmes Nacionais	https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8	iptv-org
+Pluto TV Historia (United States)	https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8	iptv-org
+Pluto TV Investigacao	https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8	iptv-org
+Pluto TV Junior	https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8	iptv-org
+Pluto TV Karaoke por Stingray	https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8	iptv-org
+Pluto TV KFOOD	https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8	iptv-org
+Pluto TV Kids	https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8	iptv-org
+Pluto TV Kids Club	https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8	iptv-org
+Pluto TV Minha Obsessao Favorita	https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8	iptv-org
+Pluto TV Misterios	https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8	iptv-org
+Pluto TV Natureza	https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8	iptv-org
+Pluto TV Negocio Fechado	https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8	iptv-org
+Pluto TV Netmovies	https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8	iptv-org
+Pluto TV Novelas BR	https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8	iptv-org
+Pluto TV Paisagens por Stingray	https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8	iptv-org
+Pluto TV Policial	https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8	iptv-org
+Pluto TV Record News	https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8	iptv-org
+Pluto TV Retro	https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8	iptv-org
+Pluto TV Series Acao	https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8	iptv-org
+Pluto TV Series Comedia	https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8	iptv-org
+Pluto TV Series Criminais	https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8	iptv-org
+Pluto TV Series Drama	https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8	iptv-org
+Pluto TV Series Novelescas	https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8	iptv-org
+Pluto TV Series Sci-Fi	https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8	iptv-org
+Pluto TV Shows por Stingray	https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8	iptv-org
+Pluto TV Terror Trash	https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8	iptv-org
+Pluto TV Turbo	https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8	iptv-org
+Pluto TV Viagens	https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8	iptv-org
+Pluto TV Vida Real	https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8	iptv-org
+Premiere 2	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd	saimo
+Premiere 3	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd	saimo
+Premiere 4	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd	saimo
+Premiere 5	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd	saimo
+Premiere 6	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/0bmtb2fxcj/out/v1/b5f50c3632264d32bf857652f631b0fb/cenc.mpd	saimo
+Premiere 7	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/joij38hkop/out/v1/c920c9b42af24588a253530ed2cbd6eb/cenc.mpd	saimo
+Premiere 8	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/2s8gkqz2id/out/v1/41da2546a9a34238b8615d3beb4ee600/cenc.mpd	saimo
+Premiere Clubes	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd	saimo
+Rai News 24	https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8	int-Itália
+RCTV Brasil	https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8	iptv-org
+Record RS (720p)	https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8	iptv-org
+RecordTV Belem (720p)	https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8	iptv-org
+RecordTV Brasilia (720p)	https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8	iptv-org
+RecordTV Goias (720p)	https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8	iptv-org
+RecordTV Interior SP	http://200.77.176.130:8000/udp/224.0.0.4:49152	iptv-org
+RecordTV Itapoan (720p)	https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8	iptv-org
+RecordTV Rio (720p)	https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8	iptv-org
+RecordTV Sao Paulo (720p)	https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8	iptv-org
+Rede CNT Salvador	http://168.205.87.198:8555/live/1368/123456/150.m3u8	iptv-org
+Rede Globo	https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq	iptv-org
+Rede Metropole	https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8	iptv-org
+Rede Premium TV	https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8	iptv-org
+Sabor & Arte	https://video37.mais.uol.com.br/live/3066.m3u8	saimo
+SBT ARATU BAHIA	http://governosptx.org:80/3llohwk4g9/kwf099q30o/108770.ts	ramys
+SBT Cuiaba (818p)	https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8	iptv-org
+SBT Interior	https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8	iptv-org
+SBT JANGADEIRO	http://governosptx.org:80/3llohwk4g9/kwf099q30o/595274.ts	ramys
+SBT Kids (1080p)	https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8	iptv-org
+SBT Nacional	https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8	iptv-org
+SBT PARANA	http://governosptx.org:80/3llohwk4g9/kwf099q30o/88432.ts	ramys
+SBT PIAUI	http://governosptx.org:80/3llohwk4g9/kwf099q30o/131432.ts	ramys
+SBT Rondonopolis	https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8	iptv-org
+SBT RS	http://governosptx.org:80/3llohwk4g9/kwf099q30o/91907.ts	ramys
+SBT Ⓨ	https://www.youtube.com/watch?v=ABVQXgr2LW4	freetv
+Sertao TV	http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8	iptv-org
+Show do Milhao (1080p)	https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8	iptv-org
+SIC Noticias (1080p)	https://sicnot.live.impresa.pt/sicnot.m3u8	int-Portugal
+Smithsonian Channel Pluto TV	https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8	iptv-org
+Sony Movies (Brazil)	http://45.177.114.115/SONY_MOVIES/index.m3u8	iptv-org
+SporTV 2	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd	saimo
+SporTV 3	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd	saimo
+TELE 6	https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8	iptv-org
+Terra Viva	https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8	saimo
+The Pet Collective Brazil	https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8	iptv-org
+TikTok Radio Brasil	https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529	iptv-org
+TNT Sports	http://45.185.11.126:8000/play/a0bi/index.m3u8	ramys
+TNT SØries	http://45.185.11.126:8000/play/a08a/index.m3u8	ramys
+Trace Brasil	http://45.185.11.126:8000/play/a08l/index.m3u8	ramys
+Turma da Monica	https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8	iptv-org
+TV 3 Curitiba	https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8	iptv-org
+TV A Folha	https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8	iptv-org
+TV Adorar	https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8	iptv-org
+TV Arapuan	https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8	iptv-org
+TV Birigui (640p)	https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8	iptv-org
+TV Carioca	https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8	iptv-org
+TV Destak	http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8	iptv-org
+TV Diario Macapa (1080p)	https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8	iptv-org
+TV Difusora Leste	https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8	iptv-org
+TV Digital Birigui (640p)	http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8	iptv-org
+TV Empire	https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8	iptv-org
+TV Encontro das Aguas	https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8	iptv-org
+TV Fronteira (480i)	https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8	iptv-org
+TV Futuro	https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8	iptv-org
+TV Gazin	https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8	iptv-org
+TV Grao Para	https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8	iptv-org
+TV Meio	https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8	iptv-org
+TV Ra Tim Bum	http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8	iptv-org
+TV Sim Sao Mateus	https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8	iptv-com
+TV Sul de Minas	https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8	iptv-com
+TV Thathi (720p)	https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8	iptv-org
+TV5Monde Info	http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0	int-França
+TVC-Rio	https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8	iptv-org
+TVMatic Comedy	http://cdn.tvmatic.net/comedy.m3u8	iptv-org
+TVMatic Fight	http://cdn.tvmatic.net/fight.m3u8	iptv-org
+Universal Premiere	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/khnyllds8v/out/v1/1cf61b7a057e4ffdb31f6d82fb24c679/cenc.mpd	saimo
+Universal Reality	https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/5ppjwg1ekb/out/v1/393342b545834c218745c3dd33661013/cenc.mpd	saimo
+VRT Channel	https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8	iptv-org
+Warner Channel	http://45.185.11.126:8000/play/a0am/index.m3u8	ramys
+ZOOMOO	http://governosptx.org:80/3llohwk4g9/kwf099q30o/9230.ts	ramys
+
+# SUSPEITOS (falharam 1 rodada -> mantidos; saem se falharem de novo)
+Adesso TV	https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8	iptv-org
+AgroCanal	http://170.83.49.66:8083/AGROCANALHD/index.m3u8	iptv-org
+BAND BAHIA	http://governosptx.org:80/3llohwk4g9/kwf099q30o/1166298.ts	ramys
+Canal Metropolitano de Noticias	https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8	iptv-org
+CAZÉ TV	http://governosptx.org:80/3llohwk4g9/kwf099q30o/227520.ts	ramys
+DumDum	http://186.219.52.187/zoomoo/index.m3u8	saimo
+Globo ES	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/56fb475c302130c40c7a37446c5e4aaf/error.txt	saimo
+Globo RJ	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/fa89fbb07d899d942dde1ed08b5fed99/error.txt	saimo
+Globo SP	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/59ac60fb73f6df57b491b47a53319d4b/error.txt	saimo
+MCM Pop	http://176.65.153.78:8201/play/a070/index.m3u8	iptv-com
+RBATV	https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8	iptv-org
+Record DF	https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8	saimo
+Record RJ	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/5b3f90bd2a9d2f8253587736ee4b2e35/error.txt	saimo
+Record SP	https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/51d583013325675cdd78ab1b4bbf4ab7/error.txt	saimo
+Rede TV! Mais	https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8	iptv-org
+Tooncast	http://170.83.16.50:80/TOONCAST/index.m3u8	saimo
+TV Guarapari	https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8	iptv-org
+TV Litoral RN	https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8	iptv-org
+TVNBN	https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8	iptv-org
+Woohoo	http://170.83.16.50/WOOHOO/index.m3u8	saimo

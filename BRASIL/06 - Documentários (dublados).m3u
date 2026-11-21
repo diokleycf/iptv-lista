@@ -1,0 +1,34 @@
+#EXTM3U
+# Documentários (dublados) — 16 canais — atualizado 21/11/2026 14:06
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://img.faz-o-eli.online/animalplanet.png" group-title="Documentários (dublados)",Animal Planet
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/2468c152d130c57caebeb473fd69c22e/error.txt
+#EXTINF:-1 tvg-id="Curta" tvg-name="Curta" tvg-logo="https://img.faz-o-eli.online/curta.png" group-title="Documentários (dublados)",Curta
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/1edee0c421ae094efbf917053494c5d3/error.txt
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentários (dublados)",Discovery Channel
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/cdd5e57b01154cf99448aeaadf399721/error.txt
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD*" tvg-logo="http://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="Documentários (dublados)",DISCOVERY CHANNEL FHD*
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131176.ts
+#EXTINF:-1 tvg-id="discovery.home.and.health.br" tvg-name="DISCOVERY HOME & HEALT" tvg-logo="http://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="Documentários (dublados)",DISCOVERY HOME & HEALT
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/93902.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Documentários (dublados)",Discovery Home & Health
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/27b9ca1f810270acedd33b9c94764b4a/error.txt
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Documentários (dublados)",Discovery ID
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/6c16697631f1a1a2aff741a1a392d2d0/error.txt
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America Brazil (720p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Documentários (dublados)",Discovery Kids Latin America Brazil (720p)
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentários (dublados)",Discovery Science
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/fa88369bb67bfb981f2ccc5d842bfc5b/error.txt
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentários (dublados)",Discovery Theater
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/adad33c2aa8ecb615c9165e8f923d569/error.txt
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentários (dublados)",Discovery Turbo
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/4d29877415f7591fdeaf79fa991c4caf/error.txt
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentários (dublados)",Discovery World
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/29866ad978961c18102ea4080ed37483/error.txt
+#EXTINF:-1 tvg-id="DiscoveryWorld.us@Brazil" tvg-name="Discovery World Brazil (720p)" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentários (dublados)",Discovery World Brazil (720p)
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentários (dublados)",History
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://img.faz-o-eli.online/history2.png" group-title="Documentários (dublados)",History 2
+https://486eeef84e28db8110bdb6de125e5deb.s25-cloudfront-net.lat/stream/3dd65380123c3b2f906caaae4f68d35f/error.txt
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="http://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png" group-title="Documentários (dublados)",ID - INVESTIGAÇÃO DISCOVERY FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/91403.ts
