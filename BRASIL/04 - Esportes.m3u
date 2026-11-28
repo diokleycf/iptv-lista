@@ -1,0 +1,98 @@
+#EXTM3U
+# Esportes — 37 canais — atualizado 28/11/2026 14:57
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",Band Sports
+https://eitvplay.appmembers.com.br/event29/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+#EXTINF:-1 tvg-id="CANAL GOAT 01" tvg-name="CANAL GOAT 01" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" group-title="Esportes",CANAL GOAT 01
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/275100.ts
+#EXTINF:-1 tvg-id="CANAL GOAT 02" tvg-name="CANAL GOAT 02" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" group-title="Esportes",CANAL GOAT 02
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/289540.ts
+#EXTINF:-1 tvg-id="CANAL GOAT 03" tvg-name="CANAL GOAT 03" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" group-title="Esportes",CANAL GOAT 03
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/289541.ts
+#EXTINF:-1 tvg-id="Canal OFF" tvg-name="Canal OFF" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Esportes",Canal OFF
+https://a49fc0a50af4962dc188a3a82d8fd7ce.sv-nl-03-cloudfront-net.lat/stream/4fcacae7c9828b58889d1009b2f020cc/error.txt
+#EXTINF:-1 tvg-id="CazeTV" tvg-name="CazeTV" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV
+https://eitvplay.appmembers.com.br/event55/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+#EXTINF:-1 tvg-id="CazeTV 4" tvg-name="CazeTV 4" tvg-logo="https://vipcanais.net/images/cazetv.png" group-title="Esportes",CazeTV 4
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv4/index.m3u8
+#EXTINF:-1 tvg-id="CAZÉ TV" tvg-name="CAZÉ TV" tvg-logo="http://imgu.top/logos/cazetv.png" group-title="Esportes",CAZÉ TV
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/227520.ts
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://1.embedcanaisdetv.com/images/dazn.png" group-title="Esportes",DAZN
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/dazn/index.m3u8
+#EXTINF:-1 tvg-id="Disney+ 01" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Esportes",Disney+ 01
+https://a49fc0a50af4962dc188a3a82d8fd7ce.sv-nl-03-cloudfront-net.lat/stream/20708207bf97be0fd09a6170ec33f66d/error.txt
+#EXTINF:-1 tvg-id="Disney+ 02" tvg-name="Disney+ 02" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 02
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus02/index.m3u8
+#EXTINF:-1 tvg-id="Disney+ 03" tvg-name="Disney+ 03" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 03
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus03/index.m3u8
+#EXTINF:-1 tvg-id="Disney+ 04" tvg-name="Disney+ 04" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 04
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus04/index.m3u8
+#EXTINF:-1 tvg-id="Disney+ 05" tvg-name="Disney+ 05" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 05
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus05/index.m3u8
+#EXTINF:-1 tvg-id="Disney+ 06" tvg-name="Disney+ 06" tvg-logo="https://1.embedcanaisdetv.com/images/disneyplus.png" group-title="Esportes",Disney+ 06
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus06/index.m3u8
+#EXTINF:-1 tvg-id="Disney+ 07" tvg-name="Disney+ 07" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney+ 07
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus07/index.m3u8
+#EXTINF:-1 tvg-id="Disney+ 08" tvg-name="Disney+ 08" tvg-logo="https://vipcanais.net/images/disneyplus.png" group-title="Esportes",Disney+ 08
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus08/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes",ESPN
+https://eitvplay.appmembers.com.br/event24/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Esportes",ESPN (Brazil)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes",ESPN 2
+https://grupoa.satlabscloud.com.br/ESPN2/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes",ESPN 3
+https://grupoa.satlabscloud.com.br/ESPN3/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4
+https://grupoa.satlabscloud.com.br/ESPN4/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4 (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Esportes",ESPN 4 (Brazil)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",ESPN 5
+https://eitvplay.appmembers.com.br/event28/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes",ESPN 6
+https://grupoa.satlabscloud.com.br/ESPN6/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png" group-title="Esportes",Fish TV
+https://grupoa.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=WdS7zWq3VkMZEiAMjl4J4FqMFjkNjpkV
+#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="N Sports" tvg-name="N Sports" tvg-logo="https://1.embedcanaisdetv.com/images/nsports.png" group-title="Esportes",N Sports
+https://eitvplay.appmembers.com.br/event190/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+#EXTINF:-1 tvg-id="Paramount+ (Jogo 1)" tvg-name="Paramount+ (Jogo 1)" tvg-logo="https://img.faz-o-eli.online/paramountplus.png" group-title="Esportes",Paramount+ (Jogo 1)
+https://a49fc0a50af4962dc188a3a82d8fd7ce.sv-nl-03-cloudfront-net.lat/stream/7be392e274f90550e804e07db92a5f39/error.txt
+#EXTINF:-1 tvg-id="Paramount+ (Jogo 2)" tvg-name="Paramount+ (Jogo 2)" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="Esportes",Paramount+ (Jogo 2)
+https://a49fc0a50af4962dc188a3a82d8fd7ce.sv-nl-03-cloudfront-net.lat/stream/fe24a65cf0397344abf950fdf6edfbb6/error.txt
+#EXTINF:-1 tvg-id="Paramount+ 03" tvg-name="Paramount+ 03" tvg-logo="https://vipcanais.net/images/paramountplus.png" group-title="Esportes",Paramount+ 03
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus03/index.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",SporTV
+https://live.lixe.net/hls/g8/SporTV%20HD%20TV/index.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes",SporTV 3
+https://live.lixe.net/hls/g5/SporTV3%20TV/index.m3u8
+#EXTINF:-1 tvg-id="SportyNet +1" tvg-name="SportyNet +1" tvg-logo="https://vipcanais.net/images/sportynet.png" group-title="Esportes",SportyNet +1
+#EXTVLCOPT:http-referrer=https://playerembedcanais.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8
+#EXTINF:-1 tvg-id="SportyNet+ 2" tvg-name="SportyNet+ 2" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 2
+https://a49fc0a50af4962dc188a3a82d8fd7ce.sv-nl-03-cloudfront-net.lat/stream/f0df3bfd393ee554083612ca110d98e9/error.txt
+#EXTINF:-1 tvg-id="SportyNet+ 3" tvg-name="SportyNet+ 3" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 3
+https://a49fc0a50af4962dc188a3a82d8fd7ce.sv-nl-03-cloudfront-net.lat/stream/40ac19d3a6b11257742460b8c741edc2/error.txt
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/woohoo.png" group-title="Esportes",Woohoo
+https://eitvplay.appmembers.com.br/event22/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
